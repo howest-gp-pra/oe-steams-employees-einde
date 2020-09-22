@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.StreamsEmployee.WPF", "Pra.StreamsEmployee.WPF\Pra.StreamsEmployee.WPF.csproj", "{B06AF5BB-8549-4C36-B374-8FC68D4C18E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.StreamsEmployee.CORE", "Pra.StreamsEmployee.CORE\Pra.StreamsEmployee.CORE.csproj", "{0314A601-81B7-44E9-9D76-2434017F61F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B06AF5BB-8549-4C36-B374-8FC68D4C18E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06AF5BB-8549-4C36-B374-8FC68D4C18E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06AF5BB-8549-4C36-B374-8FC68D4C18E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06AF5BB-8549-4C36-B374-8FC68D4C18E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0314A601-81B7-44E9-9D76-2434017F61F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0314A601-81B7-44E9-9D76-2434017F61F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0314A601-81B7-44E9-9D76-2434017F61F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0314A601-81B7-44E9-9D76-2434017F61F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B028358-B951-4499-A4A3-FF8C61090BDD}
+	EndGlobalSection
+EndGlobal
